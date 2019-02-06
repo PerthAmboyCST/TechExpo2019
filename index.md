@@ -6,7 +6,3 @@
 #### Joesph
 #### Brad Pita
 #### Richard
-
-markdown???
-<!-- oh -->
-###thsis 
